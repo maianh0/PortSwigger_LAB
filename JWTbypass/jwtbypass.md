@@ -1,11 +1,11 @@
-<img width="1919" height="754" alt="image" src="https://github.com/user-attachments/assets/b4826ebb-354a-4fb4-8791-45cfadd60a06" /><img width="1919" height="599" alt="image" src="https://github.com/user-attachments/assets/db1ebd7a-eb93-4454-9286-48a86f0816f4" /><img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/6365cdb5-9f35-4457-adfa-46879582eafb" /># Lab: JWT authentication bypass via weak signing key
+# Lab: JWT authentication bypass via weak signing key
 **Thực hiện**: Mai Anh  
 **Cập nhật lần cuối**: 01/08/2025
 
 ## Mục lục
 - [1. Mô tả](#1-mô-tả)
 - [2. Mục tiêu](#2-mục-tiêu)
-- [3. Các bước thực hiện ](#3-các-bước-thực-hiện-gợi-ý)
+- [3. Các bước thực hiện](#3-các-bước-thực-hiện)
 
 
 ## 1. Mô tả
