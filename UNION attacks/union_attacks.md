@@ -21,6 +21,7 @@ Sử dụng payload thử với nhiều giá trị NULL (câu lệnh láy ở b�
 - Nếu không hiển thị, thử cột 2
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/5d7e6df1-070b-40b3-8bbc-6d374a1bb659" />
 > Nếu payload nào hiển thị giá trị abcdef trên trang, thì đã tìm đúng cột có kiểu dữ liệu string, sau đó thay giá trị chuôi cho trên màn hình vào vị trí 'abcdef'
-<img width="1834" height="1046" alt="image" src="https://github.com/user-attachments/assets/290435f8-b6dc-4ef4-98e0-2aef52203827" />
+<img width="1874" height="986" alt="image" src="https://github.com/user-attachments/assets/9ddc271c-f856-43c7-b41c-1faf7ec58346" />
+
 
 
