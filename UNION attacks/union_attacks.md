@@ -1,4 +1,4 @@
-<img width="1864" height="955" alt="image" src="https://github.com/user-attachments/assets/de26107c-2fb1-416c-8e43-ed6d91f79e39" /># Lab: SQL injection UNION attack, finding a column containing text
+# Lab: SQL injection UNION attack, finding a column containing text
 
  - Để thực hiện tấn công UNION SELECT, trước tiên bạn cần xác định:
   + Số lượng cột được trả về bởi truy vấn gốc.
